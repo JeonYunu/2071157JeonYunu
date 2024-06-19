@@ -17,4 +17,4 @@
 
 ## 시연 영상
 
-[YouTube 시연 영상 링크]
+[YouTube 시연 영상 링크] (https://youtu.be/jEpC3rU1nFw)
